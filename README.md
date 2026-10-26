@@ -25,5 +25,6 @@ uvicorn main:app --reload
 ## Learn more
 
 - [Getting started](https://eurobase.dev/docs/getting-started)
+- [Deploy a FastAPI app: step-by-step guide](https://eurobase.dev/docs/guides/fastapi)
 - [How FastAPI runs on Eurobase (containers)](https://eurobase.dev/docs/containers)
 - [Plans and limits](https://eurobase.dev/docs/plans): the Free plan costs nothing.
